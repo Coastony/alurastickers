@@ -1,2 +1,2 @@
 # alurastickers
-Imersão Java @AluraOnline @paulo_hipster
+Imersão Java @alura @peas #ImersãoJava
