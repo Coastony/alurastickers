@@ -8,7 +8,7 @@
 
 Projeto em andamento, o objetivo é criar um Catálogo de filmes com a linguagem Java no ambiente de desenvolvimento VS Code.
 
-**AULA 1**
+**AULA 01**
 
 > Consumindo uma API de filmes com Java
 
@@ -19,7 +19,7 @@ Projeto em andamento, o objetivo é criar um Catálogo de filmes com a linguagem
 - `Funcionalidade 2`: Extrair só os dados que interessam (título, poster, classificação)
 - `Funcionalidade 3`: Exibir e manipular os dados
 
-**AULA 2**
+**AULA 02**
 
 > Gerando figurinhas para WhatsApp
 
@@ -31,6 +31,10 @@ Projeto em andamento, o objetivo é criar um Catálogo de filmes com a linguagem
 - `Funcionalidade 4`: Configurar a fonte
 - `Funcionalidade 5`: Escrever uma frase na nova imagem
 - `Funcionalidade 6`: Escrever a nova imagem em um arquivo
+
+**AULA 03**
+
+> Ligando as pontas, refatoração e orientação a objetos
 
 :construction: Projeto em construção :construction:
 
