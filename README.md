@@ -1,18 +1,49 @@
-## Getting Started
+<h1 align="center">AluraStickers</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-## Folder Structure
+## 💡 Imersão Java da Alura
 
-The workspace contains two folders by default, where:
+# Resumo do projeto
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Projeto em andamento, o objetivo é criar um Catálogo de filmes com a linguagem Java no ambiente de desenvolvimento VS Code.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**AULA 1**
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> Consumindo uma API de filmes com Java
 
-## Dependency Management
+## :hammer: Funcionalidades do projeto
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- `API`: https://alura-filmes.herokuapp.com/conteudos
+- `Funcionalidade 1`: Fazer uma conexão HTTP e buscar os top 250 filmes
+- `Funcionalidade 2`: Extrair só os dados que interessam (titulo, poster, classificação)
+- `Funcionalidade 3`: Exibir e manipular os dados
+
+**AULA 2**
+
+> Gerando figurinhas para WhatsApp
+
+:construction: Projeto em construção :construction:
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``Java 17``
+- ``VS Code``
+- ``Paradigma de Orientação a Objetos``
+
+## 📁 Acesso ao projeto
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+
+## 🛠️ Abrir e rodar o projeto
+
+- ``Ter o VS Code instalado na máquina`` [VS Code](https://code.visualstudio.com/download)
+- ``Baixar as extensões para rodar o Java no VS Code: ``
+
+1.  Language Support for Java™ by Red Hat
+2.  Debugger for Java
+3.  Test Runner for Java
+4.  Maven for Java
+5.  Project Manager for Java
+6. Visual Studio IntelliCode
+
+- ``Run Java Program em App.java``
