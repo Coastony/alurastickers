@@ -28,8 +28,9 @@ Projeto em andamento, o objetivo é criar um Catálogo de filmes com a linguagem
 - `Funcionalidade 1`: Leitura da imagem
 - `Funcionalidade 2`: Cria nova imagem em memória com transparência e com tamanho novo
 - `Funcionalidade 3`: Copiar a imagem original pra novo imagem(em memória)
-- `Funcionalidade 4`: Escrever uma frase na nova imagem
-- `Funcionalidade 5`: Escrever a nova imagem em um arquivo
+- `Funcionalidade 4`: Configurar a fonte
+- `Funcionalidade 5`: Escrever uma frase na nova imagem
+- `Funcionalidade 6`: Escrever a nova imagem em um arquivo
 
 :construction: Projeto em construção :construction:
 
