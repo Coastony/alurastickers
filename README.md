@@ -40,7 +40,7 @@ Projeto em andamento, o objetivo é criar um Catálogo de filmes com a linguagem
 - ``Paradigma de Orientação a Objetos``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui]https://github.com/Coastony/alurastickers/tree/main/src).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Coastony/alurastickers/tree/main/src).
 
 ## 🛠️ Abrir e rodar o projeto
 
