@@ -37,6 +37,16 @@ Projeto em andamento, o objetivo é criar um Catálogo de filmes com a linguagem
 
 > Ligando as pontas, refatoração e orientação a objetos
 
+## :hammer: Funcionalidades do projeto
+
+- `Nova API`: https://raw.githubusercontent.com/alura-cursos/imersao-java/api/NASA-APOD.json
+- `Funcionalidade 1`: Refatoração do código
+- `Funcionalidade 2`: Paradigma de Orientação a Objetos
+
+**AULA 04**
+
+>Criando nossa própria API com Spring
+
 :construction: Projeto em construção :construction:
 
 ## ✔️ Técnicas e tecnologias utilizadas
