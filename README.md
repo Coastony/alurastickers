@@ -45,7 +45,15 @@ Projeto em andamento, o objetivo é criar um Catálogo de filmes com a linguagem
 
 **AULA 04**
 
->Criando nossa própria API com Spring
+> Criando nossa própria API com Spring
+
+- `Nova API`: Nossa própria API de linguagens de programação no localhost
+- `Funcionalidade 1`: Integração com o framework Spring 
+- `Funcionalidade 2`: Integração com o MongoDB
+
+**AULA 05**
+
+> Publicando nossa API no Cloud
 
 :construction: Projeto em construção :construction:
 
