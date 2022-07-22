@@ -66,6 +66,9 @@ Projeto em andamento, o objetivo é criar um Catálogo de filmes com a linguagem
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Coastony/alurastickers).
 
+## 📁 Pasta oficial do projeto AluraStickers
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/alura-cursos/imersao-java/tree/aula5).
+
 ## 🛠️ Abrir e rodar o projeto
 
 - ``Ter o VS Code instalado na máquina`` [VS Code](https://code.visualstudio.com/download)
