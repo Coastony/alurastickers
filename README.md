@@ -55,7 +55,7 @@ Projeto em andamento, o objetivo é criar um Catálogo de filmes com a linguagem
 
 > Publicando nossa API no Cloud
 
-:construction: Projeto em construção :construction:
+- `Heroku`: Hospedagem da API de linguagens de programação
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
