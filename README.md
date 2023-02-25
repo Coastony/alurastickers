@@ -3,15 +3,15 @@
 ![Badge Concluído](https://camo.githubusercontent.com/459f141bd5e24c179a0e2dd49691e290ed5c5d4b4cb97767daee7cfaf6e31121/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d434f4e434c5549444f26636f6c6f723d475245454e267374796c653d666f722d7468652d6261646765)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-## 💡 Imersão Java da Alura Jul/2022
+## 💡 Alura Java Immersion Jul/2022
 
-# Resumo do projeto
+# Project summary
 
-Projeto em andamento, o objetivo é criar um Catálogo de filmes com a linguagem Java no ambiente de desenvolvimento VS Code.
+The objective is to create a Movie Catalog with the Java language in the VS Code development environment.
 
-**AULA 01**
+**CLASS 01**
 
-> Consumindo uma API de filmes com Java
+> Consuming a Movies API with Java
 
 ## :hammer: Funcionalidades do projeto
 
@@ -20,59 +20,59 @@ Projeto em andamento, o objetivo é criar um Catálogo de filmes com a linguagem
 - `Funcionalidade 2`: Extrair só os dados que interessam (título, poster, classificação)
 - `Funcionalidade 3`: Exibir e manipular os dados
 
-**AULA 02**
+**CLASS 02**
 
 > Gerando figurinhas para WhatsApp
 
-## :hammer: Funcionalidades do projeto
+## :hammer: Project features
 
-- `Funcionalidade 1`: Leitura da imagem
-- `Funcionalidade 2`: Cria nova imagem em memória com transparência e com tamanho novo
-- `Funcionalidade 3`: Copiar a imagem original pra novo imagem(em memória)
-- `Funcionalidade 4`: Configurar a fonte
-- `Funcionalidade 5`: Escrever uma frase na nova imagem
-- `Funcionalidade 6`: Escrever a nova imagem em um arquivo
+- `Functionality 1`: Image reading
+- `Functionality 2`: Create new image in memory with transparency and new size
+- `Functionality 3`: Copy original image to new image(in memory)
+- `Functionality 4`: Configure font
+- `Functionality 5`: Write a sentence on the new image
+- `Functionality 6`: Write the new image to a file
 
-**AULA 03**
+**CLASS 03**
 
-> Ligando as pontas, refatoração e orientação a objetos
+> Connecting the ends, refactoring and object orientation
 
-## :hammer: Funcionalidades do projeto
+## :hammer: Project features
 
-- `Nova API`: https://raw.githubusercontent.com/alura-cursos/imersao-java/api/NASA-APOD.json
-- `Funcionalidade 1`: Refatoração do código
-- `Funcionalidade 2`: Paradigma de Orientação a Objetos
+- `New API`: https://raw.githubusercontent.com/alura-cursos/imersao-java/api/NASA-APOD.json
+- `Functionality 1`: Code refactoring
+- `Functionality 2`: Object Oriented Paradigm
 
-**AULA 04**
+**CLASS 04**
 
-> Criando nossa própria API com Spring
+> Creating our own API with Spring
 
-- `Nova API`: Nossa própria API de linguagens de programação no localhost
-- `Funcionalidade 1`: Integração com o framework Spring 
-- `Funcionalidade 2`: Integração com o MongoDB
+- `New API`: Our own programming languages API on localhost
+- `Functionality 1`: Integration with the Spring framework
+- `Functionality 2`: Integration with MongoDB
 
-**AULA 05**
+**CLASS 05**
 
-> Publicando nossa API no Cloud
+> Publishing our API to the Cloud
 
-- `Heroku`: Hospedagem da API de linguagens de programação
+- `Heroku`: Programming languages API hosting
 
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Techniques and technologies used
 
 - ``Java 17``
 - ``VS Code``
-- ``Paradigma de Orientação a Objetos``
+- ``Object Oriented Paradigm``
 
-## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Coastony/alurastickers).
+## 📁 Project access
+You can access the project files by clicking [here](https://github.com/Coastony/alurastickers).
 
-## 📁 Repositório oficial do projeto AluraStickers
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/alura-cursos/imersao-java/tree/aula5).
+## 📁 Official repository of the AluraStickers project
+You can access the project files by clicking [here](https://github.com/alura-cursos/imersao-java/tree/aula5).
 
-## 🛠️ Abrir e rodar o projeto
+## 🛠️ Open and run the project
 
-- ``Ter o VS Code instalado na máquina`` [VS Code](https://code.visualstudio.com/download)
-- ``Baixar as extensões para rodar o Java no VS Code:``
+- ``Have VS Code installed on the machine`` [VS Code](https://code.visualstudio.com/download)
+- ``Download the extensions to run Java in VS Code:``
 
 1.  Language Support for Java™ by Red Hat
 2.  Debugger for Java
