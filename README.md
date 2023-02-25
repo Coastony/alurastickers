@@ -13,16 +13,16 @@ The objective is to create a Movie Catalog with the Java language in the VS Code
 
 > Consuming a Movies API with Java
 
-## :hammer: Funcionalidades do projeto
+## :hammer: Project features
 
 - `API`: https://alura-filmes.herokuapp.com/conteudos
-- `Funcionalidade 1`: Fazer uma conexão HTTP e buscar os top 250 filmes
-- `Funcionalidade 2`: Extrair só os dados que interessam (título, poster, classificação)
-- `Funcionalidade 3`: Exibir e manipular os dados
+- `Functionality 1`: Make an HTTP connection and fetch the top 250 movies
+- `Functionality 2`: Extract only the data of interest (title, poster, rating)
+- `Functionality 3`: View and manipulate data
 
 **CLASS 02**
 
-> Gerando figurinhas para WhatsApp
+> Generating stickers for WhatsApp
 
 ## :hammer: Project features
 
